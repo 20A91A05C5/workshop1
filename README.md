@@ -1,0 +1,29 @@
+# LIST
+1. GOOD MORNING
+2. GOOD AFTERNOON
+3. GOOD EVENING
+
+## UNORDERED LIST
+- GOOD MORNING
+- GOOD AFTERNOON
+- GOOD EVENING
+# or
+* GOOD MORNING
+* GOOD AFTERNOON
+* GOOD EVENING
+# NESTED LIST
+1. GOOD MORNING
+    1. TIFFIN
+    2. TEA
+    3. MILK
+
+- GOOD EVENING
+  * TEA
+  * MILK
+  
+ ``` python
+     a=20
+     b=20
+     c=30
+     print (a,b,c)
+ ```
